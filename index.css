@@ -1,0 +1,36 @@
+/*styling the body*/
+body{
+    
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    background-color: grey;
+}
+
+/*styling the h1 element*/
+h1{
+    font-size: 40px;
+}
+
+
+/*styling the buttons*/
+button{
+    color: rgb(10, 10, 10);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 200px;
+    background: plum;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
